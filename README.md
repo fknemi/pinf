@@ -1,4 +1,4 @@
-# pin-fetch
+# pinf
 
 CLI based Pinterest scraper...
 
